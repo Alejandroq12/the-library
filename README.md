@@ -1,10 +1,10 @@
-## The Catalog
+## The Library
 
 <a name="readme-top"></a>
 <div align="center">
     <img src="logo-julio.png" alt="main-logo" width="500"  height="auto" />
   <br/>
-  <h3><b>The Catalog</b></h3>
+  <h3><b>The Library</b></h3>
 </div>
 # 📗 Table of Contents
 
@@ -28,9 +28,9 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 The Catalog <a name="about-project"></a>
+# 📖 The Library <a name="about-project"></a>
 
-The Catalog project is an app developed to simulate the operations of a real-world library within OOP University. This app is designed to utilize Object-Oriented Programming (OOP) principles to create a comprehensive system that captures vital library processes.
+The Library project is an app developed to simulate the operations of a real-world library within OOP University. This app is designed to utilize Object-Oriented Programming (OOP) principles to create a comprehensive system that captures vital library processes.
 <div align="center">
     <img src="logo.png" alt="logo" width="500"  height="auto" />
 </div>
